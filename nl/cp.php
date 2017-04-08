@@ -52,7 +52,7 @@ return [
     'editing_entry' => 'Inhoud bewerken',
     'entry_updated' => 'Inhoud aangepast',
     'entries_empty_heading' => ':type Inhoud',
-    'entries_empty' => 'De inhoud zijn stukjes content die hun eigen URL hebben en vaak getoond worden in lijsten, zoals blogposts, nieuws en evenementen.',
+    'entries_empty' => 'Inhoud zijn stukjes content die hun eigen URL hebben en vaak getoond worden in lijsten, zoals blogposts, nieuws en evenementen.',
 
     // Taxonomies
     'taxonomies' => 'Taxonomie|Taxonomieën',
