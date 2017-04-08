@@ -18,5 +18,7 @@ return [
     "token" => "Dit wachtwoord reset token is ongeldig.",
     "sent" => "We hebben je een wachtwoord reset link gestuurd!",
     "reset" => "Je wachtwoord is hersteld!",
+    "reset_subject" => "Herstel je wachtwoord",
+    "activate_subject" => "Activeer je account",
 
 ];

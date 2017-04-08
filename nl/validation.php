@@ -82,6 +82,9 @@ return [
     'unique'               => ':attribute is al in gebruik.',
     'uploaded'             => 'Het uploaden van :attribute is mislukt.',
     'url'                  => ':attribute is geen geldige URL.',
+    "entry_slug_exists"    => "Slug bestaat al.",
+    "page_uri_exists"      => "Slug bestaat al.",
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines

@@ -5,6 +5,12 @@ return [
     'cheatsheet' => '
 <p>Markdown is een text-naar-HTML syntax voor web schrijvers. Markdown staat je toe om te schrijven in een gemakkelijk te lezen, gemakkelijk te schrijven textformaat dat geconverteerd wordt naar HTML.</p>
 
+<h3>Headers</h3>
+<pre class="language-markdown"><code># Dit is een h1
+## Dit is een h2
+## Dit is een h3, enzovoort.
+</code></pre>
+
 <h3>Vet &amp; Italic</h3>
 <pre class="language-markdown"><code>Je kan zaken *schuin*, **bold**, of _**beide**_ maken.</code></pre>
 

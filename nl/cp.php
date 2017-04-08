@@ -109,6 +109,7 @@ return [
     'sync_assets' => 'Synchroniseer bestanden',
     'syncing_assets' => 'Bestanden synchroniseren',
     'new_folder' => 'Nieuwe map',
+    'upload' => 'Upload',
     'uploads' => 'Upload|Uploads',
     'filename' => 'Bestandsnaam',
     'filesize' => 'Bestandsgrootte',
@@ -119,6 +120,13 @@ return [
     'focal_point' => 'Focus punt',
     'focal_point_label' => 'Klik op de afbeelding op het focus punt aan te passen',
     'focal_point_instructions' => 'Het focus punt wordt gebruikt bij het bijsnijden zodat het belangrijkste deel van de afbeelding zichtbaar blijft.',
+    'or_drag_and_drop_files' => 'of sleep bestanden.',
+    'no_asset_container_specified' => 'Geen bestandscontainer ingevuld.',
+    'rename_file' => 'Hernoem bestand',
+    'rename_file_warning' => 'Een bestand hernoemen zal de referenties niet aanpassen, wat _kan_ resulteren in foute links op je site.',
+    'move_file' => 'Verplaats bestand',
+    'dimensions' => 'Afmetingen',
+    'last_modified' => 'Laatst bewerkt',
 
     // Folder
     'folder_title_instructions' => 'De zichtbare naam van de map.',
@@ -301,7 +309,6 @@ return [
     // Formset Builder
     'formset_title_instructions' => "Label van je formset.",
     'formset_slug_instructions' => 'Hoe de formset zal worden opgeroepen.',
-    'formset_columns_instructions' => 'Kies welke kolommen getoond moeten worden en in welke volgorde.',
     'formset_metrics_instructions' => 'Specificeer welke metingen je wil tonen.',
     'formset_emails_instructions' => 'Voeg e-mails toe die je wil versturen bij het krijgen van een inzending.',
     'formset_honeypot_field' => 'Honeypot veld',
@@ -373,6 +380,13 @@ return [
     'import_summary' => 'Import samenvatting',
     'import_site_url_instructions' => 'Geef de URL in van de bestaande website die je wilt importeren.',
 
+    'duplicate_item_warning'  => "Er is een duplicaat.|Er zijn :count duplicaten.",
+    'uncheck_duplicates' => 'Deselecteer Duplicaten',
+
+    'from_json' => 'Van JSON',
+    'json_file' => 'JSON Bestand',
+    'upload_json_file' => 'Upload een JSON bestand',
+
     // Export
     'export_failed' => 'Exporteren mislukt',
     'export_export_failed_with_error' => 'Export mislukt met error:',
@@ -434,6 +448,7 @@ return [
     'collapse' => 'Sluiten',
     'show' => 'Toon',
     'hide' => 'Verberg',
+    'move' => 'Verplaats',
     'edit_layout' => 'Bewerk Layout',
     'save_layout' => 'Layout opslaan',
     'save_order' => 'Volgorde opslaan',
@@ -539,6 +554,7 @@ return [
     'debug_mode' => 'Debug Modus',
     'defined_in_environment' => 'Extern beheerd door je environment.',
     'be_right_back' => 'Zo meteen terug.',
+    'size' => 'Grootte',
 
     'nav_content' => 'Inhoud',
     'nav_tools' => 'Tools',
