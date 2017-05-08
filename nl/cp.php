@@ -555,6 +555,7 @@ return [
     'defined_in_environment' => 'Extern beheerd door je environment.',
     'be_right_back' => 'Zo meteen terug.',
     'size' => 'Grootte',
+    'attribute_field_name' => ':attribute veld',
 
     'nav_content' => 'Inhoud',
     'nav_tools' => 'Tools',
