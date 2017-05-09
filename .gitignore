@@ -1,0 +1,6 @@
+# hidden files (macOS tempfiles / PHPStorm settings)
+.*
+!.gitignore
+
+# Linux editor tempfiles (nano, vim …)
+*~
