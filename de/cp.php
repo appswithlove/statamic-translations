@@ -198,13 +198,13 @@ return [
 
     // Roles
     'roles' => 'Rolle|Rollen',  // 'Role|Roles'
-    'nav_user-roles' => 'Benutzer Rollen',  // 'User Roles'
+    'nav_user-roles' => 'Benutzerrollen',  // 'User Roles'
     'create_role_button' => 'Rolle erstellen',  // 'Create Role'
     'creating_role' => 'Erstelle Rolle',  // 'Create a Role'
     'role_created' => 'Rolle erstellt',  // 'Role created'
     'editing_role' => 'Rolle bearbeiten',  // 'Editing Role'
     'role_updated' => 'Rolle aktualisiert',  // 'Role Updated'
-    'roles_empty_heading' => 'Benutzer Rollen',  // 'User Roles'
+    'roles_empty_heading' => 'Benutzerrollen',  // 'User Roles'
     'roles_empty' => 'Benutzerrollen erlauben es Ihnen Berechtigungen zu gruppieren. Als Beispiel Redakteur und Admin',  // 'User Roles allow you to group a number of permissions under a single label. For example, editor, publisher, and admin.'
 
     // Permissions
