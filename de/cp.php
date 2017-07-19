@@ -176,16 +176,21 @@ return [
     'user_created' => 'Benutzer erstellt',  // 'User created'
     'editing_user' => 'Benutzer bearbeiten',  // 'Editing User'
     'user_updated' => 'Benutzer aktualisiert',  // 'User updated'
+    'reset_password' => 'Passwort zurücksetzten',
+    'send_email' => 'E-Mail senden',
     'send_activation_email' => 'Aktivierungs-Mail senden',  // 'Send activation email'
     'send_password_reset_email' => 'Passwortzurücksetzen-Mail senden',  // 'Send password reset email'
     'copy_activation_link' => 'Aktivierungs-Link kopieren',  // 'Copy activation link'
     'copy_password_reset_link' => 'Passwortzurücksetzen-Link kopieren',  // 'Copy password reset link'
+    'password_reset_sent' => 'Passwortzurücksetzen-E-Mail versendet',
     'account' => 'Konto',  // 'Account'
     'my_account' => 'Mein Konto',  // 'My Account'
     'logout' => 'Ausloggen',  // 'Logout'
     'user_options' => 'Benutzer Optionen',  // 'User Options'
     'user_bio_instructions' => 'Etwas über Dich, wenn Du möchtest',  // 'A little bit about you, if you like.'
     'user_account_created' => 'Benutzer-Konto erstellt.',  // 'A user account has been created.'
+    'forgot_password' => 'Passwort vergessen?',
+    'go_back' => 'Zurück',
 
     // Password Reset
     'reset_code_missing' => 'Kein Code angegeben.',  // 'No code specified.'
@@ -214,7 +219,6 @@ return [
     'permission_denied_instructions' => "Du hast keinen Zugriff, diese Seite anzuzeigen.",  // "You don't have permission to view this page."
     'page_not_found' => 'Seite nicht gefunden',  // 'Page not found'
     'page_not_found_instructions' => 'Die angeforderte Seite wurde nicht gefunden.',  // 'The page you requested does not exist.'
-    'learn_more_about_trial_mode' => 'Erfahre mehr über die kostenlose Testversion.',  // 'Learn more about trial mode.'
     'session_expired' => 'Deine Sitzung ist abgelaufen.',  // 'Your session has expired.'
 
 
@@ -425,8 +429,8 @@ return [
     'show_keyboard_shortcuts' => 'Tastatur Kurzbefehle zeigen',  // 'Show Keyboard Shortcuts'
 
     // License
-    'license_unauthorized' => 'Die Lizenz gehört einer anderen Domain. Besuche dein <a href=":url" target="_blank">Konto</a> um diese zu ändern.',  // 'This license belongs to another domain. Visit <a href=":url" target="_blank">your account</a> to change it.'
-    'license_missing' => 'Du bist auf einer öffentlichen Domain ohne Lizenz. Bitte <a href=":url">erfasse deinen Lizenzschlüssel</a>.',  // 'You are on a public domain without a license. Please <a href=":url">add your license key</a>.'
+    'license_wrong_domain' => 'Diese Lizenz gehört zu :domain. Besuche <a href=":url" target="_blank">dein Konto</a> um diese zu ändern.',
+    'license_no_domain' => 'Diese Lizenz ist keiner Domain zugewiesen. Besuche <a href=":url" target="_blank">dein Konto</a> um dies zu ändern.',
     'checking_license_key' => 'Überprüfe den Lizenzschlüssel, bitte warten …',  // 'Checking your license key, please wait...'
     'license_valid' => 'Du hast einen gültigen Lizenzschlüssel.',  // 'You have a valid license key.'
     'license_invalid' => 'Der Lizenzschlüssel ist ungültig..',  // 'This key is invalid.'
@@ -434,6 +438,11 @@ return [
     'enter_license_key' => 'Bitte gebe deinen Lizenzschlüssel ein um das Kontrollzentrum auf einer öffentlichen Domain zu verwenden.',  // 'Please enter your license key to access to the control panel on a public domain.'
 
     'continue_in_trial_mode' => 'Kostenlose Testversion weiterhin verwenden',  // 'Continue in Trial Mode'
+    'unlicensed' => 'Nicht lizensiert',
+    'on_trial_with_invalid_license' => 'Kostenlose Testversion mit ungültiger Lizenz.',
+    'on_trial_without_license' => 'Kostenlose Testversion. Vergiss nicht einen Lizenzschlüssel hinzuzufügen bevor die Seite aufgeschaltet wird.',
+    'invalid_statamic_license' => 'Die Statamic Lizenz ist ungültig.',
+    'couldnt_connect_to_outpost' => 'Es trat ein Problem bei der Kommunikation mit dem Statamic Outpost auf.',
 
     // Verbs and helpers
     'actions' => 'Aktion|Aktionen',  // 'Action|Actions'
@@ -545,6 +554,8 @@ return [
     'authors' => 'Autor|Autoren',  // 'Author|Authors'
     'installer' => 'Installer',  // 'Installer'
     'search' => 'Suche',  // 'Search'
+    'search_results' => 'Suchresultate',
+    'no_search_results' => 'Keine Suchresultate',
     'instructions' => 'Instruktionen',  // 'Instructions'
     'handle' => 'Handle',  // 'Handle'
     'label' => 'Label',  // 'Label'
@@ -585,7 +596,6 @@ return [
 
     'trial_mode' => 'Testmodus',  // 'Trial Mode'
     'trial_mode_badge' => 'Kostenlose Testversion',  // 'FREE TRIAL'
-    'trial_mode_explanation' => "Bitte geben Sie Ihren Lizenzschlüssel ein um das gesamte Potential von Statamic freizuschalten und es auf einer öffentlichen Domain zu verwenden.",  // "Please enter your license key to unlock Statamic's full potential and run on a public domain."
 
     // Validation
     'handle_exists' => 'Ein Medien container mit diesem Handle besteht bereits.',  // 'A container with this handle already exists.'
