@@ -14,4 +14,6 @@ return [
     'default_index' => 'Standard Index', // 'Default index'
     'default_index_instruct' => 'Der Name des Standard-Suchindex.', // 'The name of the default search index.'
 
+    'searchable' => 'Durchsuchbare Felder', // Searchable fields
+    'searchable_instruct' => 'Die durchsuchbaren Felder für den Standard Index.' // The searchable fields for the default index.
 ];
