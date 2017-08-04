@@ -21,8 +21,6 @@ return [
     'editing_page' => 'Editing Page',
     'page_updated' => 'Page Updated',
     'home' => 'Home',
-    'pages_empty_heading' => 'Site Pages',
-    'pages_empty' => 'Pages are used to create the various sections and URL structures of your site, as well as manage their respective content.',
     'show_urls' => 'Show URLs',
     'show_titles' => 'Show Titles',
     'choose_page_type' => 'Choose Page Type',
