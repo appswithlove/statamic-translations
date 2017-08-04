@@ -21,8 +21,6 @@ return [
     'editing_page' => 'Bearbeite Seite',  // 'Editing Page'
     'page_updated' => 'Seite aktualisiert',  // 'Page Updated'
     'home' => 'Home',  // 'Home'
-    'pages_empty_heading' => 'Seiten',  // 'Site Pages'
-    'pages_empty' => 'Seiten werden verwendet um den Inhalt der verschiedenen Abteilungen und die URL-Struktur deiner Seite zu erstellen.',  // 'Pages are used to create the various sections and URL structures of your site, as well as manage their respective content.'
     'show_urls' => 'Zeige URLs',  // 'Show URLs'
     'show_titles' => 'Zeige Titel',  // 'Show Titles'
     'choose_page_type' => 'Seiten-Typ auswählen',  // 'Choose Page Type'
