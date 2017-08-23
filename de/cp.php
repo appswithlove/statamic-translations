@@ -213,6 +213,7 @@ return [
     'folders_unwritable' => 'Folgende Ordner brauchen Schreibberechtigung:',  // 'The following directories need to be writable:'
 
     // Error Pages
+    'error' => 'Fehler',
     'permission_denied' => 'Zugriff verweigert',  // 'Permission Denied'
     'permission_denied_instructions' => "Du hast keinen Zugriff, diese Seite anzuzeigen.",  // "You don't have permission to view this page."
     'page_not_found' => 'Seite nicht gefunden',  // 'Page not found'
