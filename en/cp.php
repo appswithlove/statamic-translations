@@ -21,8 +21,6 @@ return [
     'editing_page' => 'Editing Page',
     'page_updated' => 'Page Updated',
     'home' => 'Home',
-    'pages_empty_heading' => 'Site Pages',
-    'pages_empty' => 'Pages are used to create the various sections and URL structures of your site, as well as manage their respective content.',
     'show_urls' => 'Show URLs',
     'show_titles' => 'Show Titles',
     'choose_page_type' => 'Choose Page Type',
@@ -215,6 +213,7 @@ return [
     'folders_unwritable' => 'The following directories need to be writable:',
 
     // Error Pages
+    'error' => 'Error',
     'permission_denied' => 'Permission Denied',
     'permission_denied_instructions' => "You don't have permission to view this page.",
     'page_not_found' => 'Page not found',
@@ -373,7 +372,7 @@ return [
 
     // Swap Release
     'swapping_files' => 'Swapping files...',
-    'swapping_files_instructions' => 'Your smelly old Statamic files are being swapped for sparkly clean new ones.',
+    'swapping_files_instructions' => 'Statamic is being injected with software growth hormone (SGH). Results will be visible mere moments.',
     'files_swapped' => 'Files swapped.',
 
     // Clean Up

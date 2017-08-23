@@ -8,7 +8,7 @@ return [
 <h3>Titel</h3>
 <pre class="language-markdown"><code># Das ist ein h1
 ## Das ist ein h2
-## Das ist ein h3, und so weiter.
+### Das ist ein h3, und so weiter.
 </code></pre>
 
 <h3>Fett &amp; Kursiv</h3>

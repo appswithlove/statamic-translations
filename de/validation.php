@@ -75,6 +75,7 @@ return [
     'url'                  => 'Das Format von :attribute ist ungültig.',
     "entry_slug_exists"    => "Der Slug existiert bereits.",  // "Slug already exists."
     "page_uri_exists"      => "Der Slug existiert bereits.",  // "Slug already exists."
+    "unique_asset_filename" => "Eine Datei mit diesem Namen existiert bereits.",
 
     /*
     |--------------------------------------------------------------------------

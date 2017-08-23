@@ -20,8 +20,6 @@ return [
     'editing_page' => 'Pagina bewerken',
     'page_updated' => 'Pagina aangepast',
     'home' => 'Home',
-    'pages_empty_heading' => 'Site pagina’s',
-    'pages_empty' => 'Pagina’s worden gebruikt om de verschillende secties en URL structuren van je site te bepalen en om hun inhoud te beheren.',
     'show_urls' => 'Toon URLs',
     'show_titles' => 'Toon titels',
     'choose_page_type' => 'Kies pagina type',
