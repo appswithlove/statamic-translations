@@ -37,4 +37,7 @@ return [
     'allow_php' => 'PHP in den Vorlagen zulassen',  // 'Allow PHP in templates'
     'allow_php_instruct' => 'Das Ausführen von PHP-Code in Vorlagen ist aus Sicherheitsgründen standardmässig ausgeschaltet.',  // 'PHP code is disabled in templates by default for security.'
 
+    'markdown_hard_wrap' => 'Markdown harte Umbrüche',
+    'markdown_hard_wrap_instruct' => "Standardmässig werden nur bei zwei Leerzeichen am Zeilenende Umbrüche eingefügt, diese Option deaktiviert dies.",
+
 ];

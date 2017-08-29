@@ -23,4 +23,11 @@ return [
     'image_manipulation_presets' => 'Bild Manipulations Vorlagen', // 'Image Manipulation Presets'
     'image_manipulation_presets_instruct' => 'Definiere die gewünschte [Glide Vorlage](http://glide.thephpleague.com/1.0/config/defaults-and-presets/#presets) (als YAML). Die Bilder werden beim Hochladen automatisch gemäss Vorlage generiert und zwischengespeichert.', // 'Specify any [Glide presets](http://glide.thephpleague.com/1.0/config/defaults-and-presets/#presets) (as YAML) that you want to be referenced within templates. These will be automatically generated when assets are uploaded.'
 
+    'thumbnail_max_width' => 'Maximale Breite für Thumbnails',
+    'thumbnail_max_width_instruct' => 'Für Bilder die breiter sind werden keine Thumbnails generiert.',
+
+    'thumbnail_max_height' => 'Maximale Höhe für Thumbnails',
+    'thumbnail_max_height_instruct' => 'Für Bilder die höher sind werden keine Thumbnails generiert.',
+
+
 ];
