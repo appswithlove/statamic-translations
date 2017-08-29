@@ -12,10 +12,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Credits
 
 - [Rias Van der Veken](https://github.com/rias500)
+- [Patrick Delz](https://github.com/subpixelch)
+- [Rémy Böhler](https://github.com/rrelmy)
 - [All Contributors](../../contributors)
-
-## About Marbles
-Marbles is a digital communication agency based in Antwerp, Belgium. Learn more about us [on our website](https://www.marbles.be).
 
 ## License
 
