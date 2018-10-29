@@ -1,5 +1,7 @@
 # Statamic Translations
 
+**Archived in favor of [statamic/i18n](https://github.com/statamic/i18n)**
+
 This is a collection of the Statamic translation files, we try to keep them up to date as soon as a new version releases.
 
 To use these, put them in `site/lang` and change your locale / control panel locale to which one you prefer.
